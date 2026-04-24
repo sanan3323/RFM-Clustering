@@ -68,7 +68,7 @@ customer-segmentation-rfm/
 ├── notebooks/
 │   └── customer-segmentation-RFM.ipynb
 └── data/
-    └── raw/       (Online_Retail.csv goes here, not committed)
+    └── Online_Retail.csv 
 ```
 
 ## Run it
